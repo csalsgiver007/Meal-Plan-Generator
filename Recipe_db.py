@@ -1,0 +1,51 @@
+Recipes = {
+    0: {
+        'name': 'Ikarian Longevity Stew',
+        'Vegetarian': True,
+        'Region': 'Mediterranean',
+        'Seafood': False,
+        'Instapot': False,
+        'Low Carb': False,
+        'Source': 'Blue Zones'},
+    1: {
+        'name': 'Mushroom Mascarpone Pasta',
+        'Vegetarian': True,
+        'Region': 'European',
+        'Seafood': False,
+        'Instapot': True,
+        'Low Carb': False,
+        'Source': 'Vegetarian Instapot page 100'},
+    2: {
+        'name': 'Mushroom Stroganoff',
+        'Vegetarian': True,
+        'Region': 'European',
+        'Seafood': False,
+        'Instapot': True,
+        'Low Carb': False,
+        'Source': 'Vegetarian Instapot page 99'},
+    3: {
+        'name': 'Lebanese Lentils and Rice',
+        'Vegetarian': True,
+        'Region': 'Mediterranean',
+        'Seafood': False,
+        'Instapot': True,
+        'Low Carb': False,
+        'Source': 'Vegetarian Instapot page 163'},
+    4: {
+        'name': 'Pan Roasted Monkfish with Oregano',
+        'Vegetarian': False,
+        'Region': 'Mediterranean',
+        'Seafood': True,
+        'Instapot': False,
+        'Low Carb': True,
+        'Source': 'Mediterranean Cookbook page 253'},
+    5: {
+        'name': 'Black-Eyed Peas Curry',
+        'Vegetarian': True,
+        'Region': 'India',
+        'Seafood': False,
+        'Instapot': True,
+        'Low Carb': False,
+        'Source': 'Indian Vegetarian Instapot Book page 103'},
+
+}
